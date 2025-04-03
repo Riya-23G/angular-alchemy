@@ -1,10 +1,10 @@
-#Hi there! I'm Riya Vaagdiya 👋
+# Hi there! I'm Riya Vaagdiya 👋
 
-🚀 Frontend Developer | Angular Enthusiast | UI/UX Explorer
+<h2>🚀 Frontend Developer | Angular Enthusiast | UI/UX Explorer </h2>
 
 Welcome to my GitHub! If you love clean code, pixel-perfect designs, and the occasional debugging therapy session, you're in the right place.
 
-💡 About Me
+### 💡 About Me
 
 🖥️ Angular Developer @ Otobit Private Limited
 
@@ -16,7 +16,7 @@ Welcome to my GitHub! If you love clean code, pixel-perfect designs, and the occ
 
 🏃‍♀️ Runner, art enthusiast, and a chai addict ☕
 
-🌟 What You’ll Find Here
+### 🌟 What You’ll Find Here
 
 ✨ Angular Magic (Components, Services, RxJS Goodies)
 
@@ -26,14 +26,14 @@ Welcome to my GitHub! If you love clean code, pixel-perfect designs, and the occ
 
 📂 Some random but useful coding adventures
 
-😂 A Dev Joke (Because Why Not?)
+## 😂 A Dev Joke (Because Why Not?)
 
 🚀 Why do JavaScript developers wear glasses?
 👉 Because they don’t C#!
 
 (Okay, okay, back to coding...)
 
-📬 Let's Connect!
+## 📬 Let's Connect!
 
 🌍 Portfolio (Coming soon... or when I finally finish it)
 
@@ -43,6 +43,6 @@ Welcome to my GitHub! If you love clean code, pixel-perfect designs, and the occ
 
 💼 LinkedIn (Because networking is a thing)
 
-Feel free to fork, star ⭐, or drop a PR if you find something cool here! 🚀
+## Feel free to fork, star ⭐, or drop a PR if you find something cool here! 🚀
 
-Happy Coding! 🎉
+### Happy Coding! 🎉
